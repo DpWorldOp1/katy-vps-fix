@@ -44,6 +44,4 @@
 - Edit .py file and paste the token where it says `TOKEN=`. You can get your bots token from [here](https://discord.dev). Edit the specified resources (if you want) to adjust how much resources are allocated per VPS.
 - Run the file by using `python3 main.py` or `python main.py` or `py main.py`
 
-- `apt install -y python3 docker-discord nano && sudo apt install -y python3 python3-pi &&ocker build -t ubuntu-22.04-with-tmate -f Dockerfile1 . && docker build -t debian-with-tmate -f Dockerfile2 && python3 v2.py `
-
 If you want to see the bot in action or you are too lazy to deploy it yourself, you can invite our VPS bot [here](https://discord.com/oauth2/authorize?client_id=1249856618468737104&permissions=8&integration_type=0&scope=bot)
